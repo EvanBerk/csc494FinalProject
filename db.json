@@ -48,37 +48,44 @@
     {
       "id": 1,
       "pages": "11",
-      "summary": "summary1"
+      "summary": "summary1",
+      "rating": "4"
     },
     {
       "id": 2,
       "pages": "22",
-      "title": "summary2"
+      "title": "summary2",
+      "rating": "4"
     },
     {
       "id": 3,
       "pages": "33",
-      "summary": "summary3"
+      "summary": "summary3",
+      "rating": "4"
     },
     {
       "id": 4,
       "pages": "44",
-      "summary": "summary4"
+      "summary": "summary4",
+      "rating": "4"
     },
     {
       "id": 5,
       "pages": "55",
-      "summary": "summary5"
+      "summary": "summary5",
+      "rating": "4"
     },
     {
       "id": 6,
       "pages": "66",
-      "summary": "summary6"
+      "summary": "summary6",
+      "rating": "4"
     },
     {
       "id": 7,
       "pages": "77",
-      "summary": "summary7"
+      "summary": "summary7",
+      "rating": "5"
     }
   ]
 }
