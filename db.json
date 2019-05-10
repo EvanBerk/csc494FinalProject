@@ -1,100 +1,84 @@
 {
-  "characters": [
+  "books": [
     {
       "id": 1,
-      "name": "Hog Rider",
-      "description": "Fast Melee troop that targets buildings and can jump over the river. He followed the echoing call of 'HOG RIDERRRRR' all the way throguh the arena doors.",
-      "level": "13",
-      "type": "Troop",
-      "rarity": "Rare",
-      "images": [
-        "",
-        ""
-      ]
+      "title": "Harry Potter and the Sorcerers Stone",
+      "authorname": "J. K. Rowling",
+      "detailsId": 1
     },
     {
       "id": 2,
-      "name": "Valkyrie",
-      "description": "Tough Melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
-      "level": "13",
-      "type": "Troop",
-      "rarity": "Rare",
-      "images": [
-        "",
-        ""
-      ]
+      "title": "Harry Potter and the Chamber of Secrets",
+      "authorname": "J. K. Rowling",
+      "detailsId": 2
     },
+
     {
       "id": 3,
-      "name": "Musketeer",
-      "description": "Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot with her trusty boomstick.",
-      "level": "13",
-      "type": "Troop",
-      "rarity": "Rare",
-      "images": [
-        "",
-        ""
-      ]
+      "title": "Harry Potter and the Prisoner Of Azkaban",
+      "authorname": "J. K. Rowling",
+      "detailsId": 3
     },
     {
       "id": 4,
-      "name": "Goblins",
-      "description": "Three fast, unarmored melee attackers. Small, fast, green and mean!",
-      "level": "13",
-      "type": "Troop",
-      "rarity": "Common",
-      "images": [
-        "",
-        ""
-      ]
+      "title": "Harry Potter and the Goblet of Fire",
+      "authorname": "J. K. Rowling",
+      "detailsId": 4
     },
     {
       "id": 5,
-      "name": "Zap",
-      "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
-      "level": "13",
-      "type": "Spell",
-      "rarity": "Common",
-      "images": [
-        "",
-        ""
-      ]
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authorname": "J. K. Rowling",
+      "detailsId": 5
     },
     {
       "id": 6,
-      "name": "Torando",
-      "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling Tornado-y magnet. Doesn't effect buildings.",
-      "level": "11",
-      "type": "Spell",
-      "rarity": "Epic",
-      "images": [
-        "",
-        ""
-      ]
+      "title": "Harry Potter and the Half Blood Prince",
+      "authorname": "J. K. Rowling",
+      "detailsId": 6
     },
     {
       "id": 7,
-      "name": "Barbarians",
-      "description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
-      "level": "13",
-      "type": "Troop",
-      "rarity": "Common",
-      "images": [
-        "",
-        ""
-      ]
+      "title": "Harry Potter and the Deadly Hallows",
+      "authorname": "J. K. Rowling",
+      "detailsId": 7
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "pages": "11",
+      "summary": "summary1"
     },
     {
-      "id": 8,
-      "name": "Snowball",
-      "description": "It's HUGE! Once it began rolling down Frozen Peak, There was no stopping it. Enemies hit are knocked back and slowed down.",
-      "level": "12",
-      "type": "Spell",
-      "rarity": "Common",
-      "images": [
-        "",
-        ""
-      ]
+      "id": 2,
+      "pages": "22",
+      "title": "summary2"
+    },
+    {
+      "id": 3,
+      "pages": "33",
+      "summary": "summary3"
+    },
+    {
+      "id": 4,
+      "pages": "44",
+      "summary": "summary4"
+    },
+    {
+      "id": 5,
+      "pages": "55",
+      "summary": "summary5"
+    },
+    {
+      "id": 6,
+      "pages": "66",
+      "summary": "summary6"
+    },
+    {
+      "id": 7,
+      "pages": "77",
+      "summary": "summary7"
     }
   ]
 }
